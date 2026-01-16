@@ -1,16 +1,31 @@
-## Hi there 👋
+<h1 align="center">Salam 👋 Mən Ayşəyəm</h1>
 
-<!--
-**aysemmmdova/aysemmmdova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Python öyrənirəm 🐍 | Gələcək proqramçı 💻
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌸 Haqqımda
+- 🎓 Tələbəyəm
+- 💻 Python əsaslarını öyrənirəm
+- 🌱 Hər gün bir az inkişaf
+
+---
+
+## 🧠 Biliklərim
+- Python (print, if/else, for, while)
+- Git & GitHub əsasları
+
+---
+
+## 📂 Layihələrim
+- python-esaslari
+- mini-oyunlar (tezliklə)
+
+---
+
+## 📫 Əlaqə
+- GitHub: @aysemmmdova
+
+✨ Profilimə baxdığın üçün sağ ol!
