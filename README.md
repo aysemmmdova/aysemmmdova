@@ -14,7 +14,7 @@ Python öyrənirəm 🐍 | Gələcək proqramçı 💻
 ---
 
 ## 🧠 Biliklərim
-- Python (print, if/else, for, while)
+- Python (print, if/else, for, while ve s.)
 - Git & GitHub əsasları
 
 ---
